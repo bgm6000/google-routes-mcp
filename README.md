@@ -1,4 +1,5 @@
 # Google Routes MCP Server
+Publisher Note: All files in this Repo have been generated with Claude Code, including this readme. 
 
 An MCP (Model Context Protocol) server that provides traffic-aware drive times using the Google Routes API v2. Deployed on Google Cloud Run.
 
